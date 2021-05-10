@@ -1,3 +1,1 @@
-Projects
-
-Mainly Complex Systems Analysis
+Project Portafolio with work on AI and Complex System Simulation
